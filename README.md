@@ -14,4 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![alt text](Screenshot_1733892230.png)
+![alt text](Screenshot_1733892230.png)  addition output
+![alt text](Screenshot_1733892971.png) subtraction output
+![alt text](Screenshot_1733893010.png) multiplication output
+![alt text](Screenshot_1733893051.png) division output
+![alt text](Screenshot_1733893120.png) modulus output
